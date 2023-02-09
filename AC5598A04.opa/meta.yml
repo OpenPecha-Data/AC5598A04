@@ -1,0 +1,15 @@
+id: AC5598A04
+title: 'MSV 1,15: Śayanāsanavastu'
+type: translation
+pechas:
+- I470A9720
+- IAD686A71
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-09 15:10:42.376677
+  last_modified_at: 2023-02-09 15:10:42.376691
+alignment_to_base:
+  I470A9720/35BA: 4F38
+  IAD686A71/7AD5: 4F38
